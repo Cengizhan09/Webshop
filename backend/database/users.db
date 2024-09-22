@@ -1,0 +1,2 @@
+{"email":"admin@example.com","name":"Admin Adminson","role":"admin","address":{"street":"123 Street","zip":"123 45","city":"City"},"orderHistory":[],"password":"$2a$10$/3WTjibvRF7D.hq1tw3S9eRMDO0mmQn9.xZdehowEwkmQHE3CbiNS","_id":"EXptPmF9gmqdWzDC"}
+{"email":"customer@example.com","name":"John Doe","role":"customer","address":{"street":"Wallstreet 1","zip":"10 0004","city":"New York City"},"orderHistory":[],"password":"$2a$10$DvQ3/bM9Kss6OP/UxU7Vse5sI1m.QETfe2pxwSy7IOX/V.ys63A92","_id":"FNzPVVGggzgkjVWY"}
